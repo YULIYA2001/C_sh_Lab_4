@@ -1,0 +1,2 @@
+﻿#define DLL42_API __declspec(dllexport)
+#define DLL42_API __declspec(dllimport)

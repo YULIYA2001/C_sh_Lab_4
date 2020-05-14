@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Dll4.2.cpp
+  dllmain.cpp
+  Создание кода...
+C:\УЧЁБА\ИСП\2 сем\Lab4\Dll4.2\Dll4.2\Dll4.2.cpp(34): warning C4715: Compare: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\УЧЁБА\ИСП\2 сем\Lab4\Dll4.2\Debug\DLL42.lib и объект C:\УЧЁБА\ИСП\2 сем\Lab4\Dll4.2\Debug\DLL42.exp
+  Dll4.2.vcxproj -> C:\УЧЁБА\ИСП\2 сем\Lab4\Dll4.2\Debug\DLL42.dll
